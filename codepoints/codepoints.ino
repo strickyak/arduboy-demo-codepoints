@@ -7,6 +7,9 @@
 // builtin 5x7 character generator library.
 // Use buttons to scroll up & down.
 //
+// Some of these are not available with the print()
+// method, but all of them can be used with write().
+//
 // cf  https://en.wikipedia.org/wiki/Code_page_437
 
 #include <Arduboy.h>
